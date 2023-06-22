@@ -42,7 +42,7 @@ Step 3
 
 Step 4
 
-: If you have been cleared to Line Up and Wait (LUAW) by ATC, taxi onto the runway centreline and come to a stop. If you have been cleared for take-off by ATC or if you're on Unicom, you can commence the take-off roll straight away provided the runway is completely clear
+: If you have been cleared to Line Up and Wait (LUAW) by ATC, taxi onto the runway centreline and come to a stop. In the event of a Line Up and Wait (LUAW), turn strobe lights on only. If you have been cleared for take-off by ATC or if you're on Unicom, you can commence the take-off roll straight away provided the runway is completely clear. If you have been waiting on the active runway in a towered airspace for more than 90 seconds or traffic is approaching, contact ATC again to commerce a takeoff clearance. 
 
  
 
